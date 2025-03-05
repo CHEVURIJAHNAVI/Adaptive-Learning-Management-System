@@ -1,4 +1,4 @@
-# Adaptive-Learning-Management-System
+![image](https://github.com/user-attachments/assets/547aeeca-6722-428c-a57b-7671bab3ac74)# Adaptive-Learning-Management-System
 Adaptive Learning LMS - Project Documentation
 Project Title :Evolve Ed
 Team Details
@@ -21,3 +21,5 @@ Key Features:
   Interactive assessments with real-time feedback 
 Course progress tracking and analytics 
  Can integrate AI for personalized content recommendations
+ 
+
